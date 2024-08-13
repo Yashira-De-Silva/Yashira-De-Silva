@@ -17,7 +17,7 @@
 <a href="https://discord.gg/yashiradesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashiradesilva" height="30" width="40" /></a>
 </p>
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg"><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Yashira-de-SilvaYashira-de-Silva/output/github-contribution-grid-snake-dark.svg"><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
