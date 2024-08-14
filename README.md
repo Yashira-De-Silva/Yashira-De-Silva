@@ -20,7 +20,7 @@
 
 ## GitHub Stats 📈 :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yashira-De-Silva&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Yashira-De-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashira-De-Silva&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yashira-De-Silva&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Yashira-De-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashira-De-Silva&theme=algolia)](https://github.com/Yashira-De-Silva/github-readme-stats) 
 <br>
 
 ## GitHub Thropies 🏆 :
