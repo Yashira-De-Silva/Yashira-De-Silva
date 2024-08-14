@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashira-de-silva&label=Profile%20views&color=0e75b6&style=flat" alt="yashira-de-silva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashira-de-silva" alt="yashira-de-silva" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yashira-De-Silva)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 - 🌱 I’m currently learning **React,Docker**
 
