@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashira De Silva</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Yashira De Silva</h1>
 <h3 align="center">Computer Science Undergraduate @NSBM Green University / Microsoft Learn Student Ambassador</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashira-de-silva&label=Profile%20views&color=0e75b6&style=flat" alt="yashira-de-silva" /> </p>
