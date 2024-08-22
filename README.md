@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/yashira de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashira de silva" height="30" width="40" /></a>
 <a href="https://fb.com/yashira de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashira de silva" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_nawodhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_nawodhs" height="30" width="40" /></a>
-<a href="https://discord.gg/yashiradesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashiradesilva" height="30" width="40" /></a>
+<a href="https://discord.gg/yashiradesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashiradesilva" height="30" width="40" /></a> 
 </p>
 
 
