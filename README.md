@@ -73,16 +73,24 @@
   </a>
 </p>
 
-## GitHub Stats 📈 :
+<h2>GitHub Stats 📊 :</h2>
+<p>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashira's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashira-De-Silva&theme=dark&hide_border=false" />
+</p>
+<p>
+  <a href="https://github.com/Yashira-De-Silva/github-readme-stats">
+    <img alt="Yashira's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=algolia" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Yashira-De-Silva/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashira-De-Silva&theme=algolia" />
+  </a>
+</p>
 
-
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashira-De-Silva&theme=dark&hide_border=false" /> 
-[![Yashira-De-Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=algolia)](https://github.com/Yashira-De-Silva/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashira-De-Silva&theme=algolia)](https://github.com/Yashira-De-Silva/github-readme-stats)
-
- 
-<br>
-
-## GitHub Trophies 🏆 :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashira-De-Silva)](https://github.com/Yashira-De-Silva/github-profile-trophy)
+<h2>GitHub Trophies 🏆 :</h2>
+<p>
+  <a href="https://github.com/Yashira-De-Silva/github-profile-trophy">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Yashira-De-Silva" />
+  </a>
+</p>
