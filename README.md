@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=Yashira-De-Silva&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
 <!--horizontal divider(gradiant)-->
