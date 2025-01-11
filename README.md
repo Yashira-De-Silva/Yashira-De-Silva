@@ -16,8 +16,6 @@
   </ul>
 </div>
 
-
-<!--Intro start-->
 - 🔭 I’m currently working on **Azure , React, React Native, Nodejs**
 
 - 🌱 I’m currently learning **AWS , Kotlin.**
