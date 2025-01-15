@@ -2,7 +2,6 @@
 	<img src = "https://komarev.com/ghpvc/?username=Yashira-De-Silva&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Yashira De Silva</h1>
