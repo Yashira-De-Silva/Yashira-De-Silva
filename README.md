@@ -23,8 +23,6 @@
 - 📫 Feel free to reach me out **yashiradesilva@gmail.com**
 
 
-
-<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
