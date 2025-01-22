@@ -49,8 +49,6 @@
 
 
 </p>        
-<!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
