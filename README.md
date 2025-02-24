@@ -14,9 +14,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Azure , React, React Native, Nodejs**
+- 🔭 I’m currently working on **Azure , React, React Native, Nodejs , Flutter**
 
-- 🌱 I’m currently learning **AWS , Kotlin , Mongo DB.**
+- 🌱 I’m currently learning **AWS , Kotlin , Mongo DB , firebaase**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
