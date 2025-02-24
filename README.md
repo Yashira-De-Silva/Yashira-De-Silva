@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Azure , React, React Native, Nodejs , Flutter**
 
-- 🌱 I’m currently learning **AWS , Kotlin , Mongo DB , firebaase**
+- 🌱 I’m currently learning **AWS , Kotlin , Mongo DB , firebase**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
