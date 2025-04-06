@@ -12,9 +12,9 @@
 🔹 Exploring **AI & Machine Learning** for smarter applications  
 
 ## 🔥 My Projects & Experience
-🌟 **Speech to Text Converting Site:**  Turns Speech to text
-🌟 **POS System:**  A System for a Supermarket
-🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   
+🌟 **Speech to Text Converting Site:**  Turns Speech to text <br>
+🌟 **POS System:**  A System for a Supermarket<br>
+🌟 **Recruitment Platform:**  job recommendations with employer & employee dashboards   <br>
 📱 **Flutter Property Listing App:** Integrated with Provider for state management  
 
 ## 🚀 Tech Stack
