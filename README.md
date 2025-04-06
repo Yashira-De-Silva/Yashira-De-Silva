@@ -6,6 +6,7 @@
 
 ## 👨‍💻 About Me
 🔹 **Computer Science Undergraduate** at Plymouth University  
+🔹 **Beta Microsoft Learn Student Ambassador**
 🔹 Passionate about **Flutter development** and **Frontend development**  
 🔹 Currently working on a **Chatting App** in Flutter  
 🔹 Exploring **AI & Machine Learning** for smarter applications  
@@ -21,7 +22,7 @@
 🔹 **Firebase & Firestore** – For scalable backend solutions  
 🔹 **AI & ML** – Expanding my knowledge in neural networks and predictive models  
 
-## 📫 Let's Connect!
+## 📫 Let's connect!
 💻 Check out my projects on [GitHub](https://github.com/Yashira-De-Silva)  
 💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
 
