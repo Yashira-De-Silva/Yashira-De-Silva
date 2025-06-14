@@ -14,7 +14,8 @@
 
 ## 👨‍💻 Who Am I?
 🔹 `Computer Science Undergraduate` at Plymouth University  
-🔹 `Beta Microsoft Learn Student Ambassador`  
+🔹 Beta Microsoft Learn Student Ambassador 
+🔹 Club Captain of FOSS Community NSBM
 🔹 Passionate about **Flutter development** and **Frontend development**  
 🔹 Currently building a **Chat App** using Flutter  
 🔹 Exploring **AI & Machine Learning** for intelligent tech solutions  
