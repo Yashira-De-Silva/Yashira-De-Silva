@@ -14,6 +14,7 @@
 
 ## 👨‍💻 Who Am I?
 🔹 `Computer Science Undergraduate` at Plymouth University  
+🔹 Junior Full-Stack Developer @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Club Captain of FOSS Community NSBM <br>
 🔹 Passionate about **Flutter development** and **Frontend development**  
