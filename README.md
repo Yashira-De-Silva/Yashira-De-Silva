@@ -18,7 +18,7 @@
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Club Captain of FOSS Community NSBM <br>
 🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
-🔹 Currently building a **Chat App** using Flutter  
+🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter  
 🔹 Exploring **AI & Machine Learning** for intelligent tech solutions  
 
 ---
