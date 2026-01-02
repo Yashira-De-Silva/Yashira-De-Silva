@@ -17,7 +17,7 @@
 🔹 Junior Full-Stack Developer @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Club Captain of FOSS Community NSBM <br>
-🔹 Passionate about **Flutter development** and **Frontend development**  
+🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
 🔹 Currently building a **Chat App** using Flutter  
 🔹 Exploring **AI & Machine Learning** for intelligent tech solutions  
 
