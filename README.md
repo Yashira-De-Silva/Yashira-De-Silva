@@ -16,7 +16,7 @@
 🔹 `Computer Science Undergraduate` at Plymouth University  
 🔹 Junior Full-Stack Developer @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
-🔹 Club Captain of FOSS Community NSBM <br>
+🔹 Club Captain (President) of FOSS Community NSBM <br>
 🔹 Vice President of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
 🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter  
