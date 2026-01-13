@@ -57,14 +57,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashira-De-Silva&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-
 ## 📬 Let's Connect
 💻 Check out my projects on [GitHub](https://github.com/Yashira-De-Silva)  
 💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
