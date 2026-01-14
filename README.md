@@ -20,7 +20,7 @@
 🔹 Vice President of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
 🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter  
-🔹 Exploring **AI & Machine Learning** for intelligent tech solutions  
+🔹 Exploring **DevOps, AI & Machine Learning** for intelligent tech solutions  
 
 ---
 
