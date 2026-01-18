@@ -21,7 +21,7 @@
 🔹 Former Secretary of NSBM Chess Club <br>
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter  <br>
 🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
-🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter  
+🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter,Laravel & Firebase
 🔹 Exploring **DevOps, AI & Machine Learning** for intelligent tech solutions  
 
 ---
