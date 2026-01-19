@@ -20,6 +20,7 @@
 🔹 Vice President of NSBM Chess Club <br>
 🔹 Former Secretary of NSBM Chess Club <br>
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter  <br>
+🔹 Former OC Committee Head of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** and **Full Stack Development**  
 🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter,Laravel & Firebase
 🔹 Exploring **DevOps, AI & Machine Learning** for intelligent tech solutions  
