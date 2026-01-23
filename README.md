@@ -23,7 +23,7 @@
 🔹 Former OC Committee Head of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** , **Full Stack Development** and **Project Management**<br>
 🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter,Laravel & Firebase<br>
-🔹 Exploring **DevOps, AI & Machine Learning** for intelligent tech solutions  
+🔹 Exploring **Microservices, DevOps, AI & Machine Learning** for intelligent tech solutions  
 
 ---
 
