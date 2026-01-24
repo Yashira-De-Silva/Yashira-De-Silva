@@ -30,7 +30,7 @@
 ## 🚀 Projects & Experience
 🧠 **Speech to Text Converter** – Real-time speech transcription  
 🛒 **POS System** – Inventory & billing for supermarkets  
-👨‍💼 **Recruitment Platform** – Smart job recommendations with employer/employee dashboards  
+👨‍💼 **Recruitment Platform** – Smart job recommendations with employer/employee role based dashboards  
 🏠 **Flutter Property Listing App** – Built with Provider for state management  
 
 ---
