@@ -62,7 +62,7 @@
 
 ## 📬 Let's Connect
 💻 Check out my projects on [GitHub](https://github.com/Yashira-De-Silva)  
-💬 Always open to discussing **Flutter, AI, and innovative tech solutions!**  
+💬 Always open to discussing **Mobile Application Development, AI, and Innovative tech solutions!**  
 
 ### 🌐 Socials
 <p align="left">
