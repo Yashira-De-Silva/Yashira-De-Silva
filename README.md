@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>“Code the future, one pixel at a time.”</em>
+  <em>“Code the future, one pixel at a time....”</em>
 </p>
 
 ---
