@@ -16,7 +16,7 @@
 🔹 `Computer Science Undergraduate` at Plymouth University UK <br>
 🔹 `Junior Full-Stack Developer` @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
-🔹 Club Captain (President) of FOSS Community NSBM <br>
+🔹 Former Club Captain (President) of FOSS Community NSBM <br>
 🔹 Vice President of NSBM Chess Club <br>
 🔹 Former Secretary of NSBM Chess Club <br>
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter  <br>
