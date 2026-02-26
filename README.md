@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 Who Am I?
-🔹 `Computer Science Undergraduate` at Plymouth University UK <br>
+🔹 `Final Year Computer Science Undergraduate` at Plymouth University UK <br>
 🔹 `Associate Full-Stack Developer` @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Former Club Captain (President) of FOSS Community NSBM <br>
