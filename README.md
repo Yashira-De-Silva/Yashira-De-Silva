@@ -19,7 +19,7 @@
 🔹 Former Club Captain (President) of FOSS Community NSBM <br>
 🔹 Vice President of NSBM Chess Club <br>
 🔹 Former Secretary of NSBM Chess Club <br>
-🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter  <br>
+🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter. <br>
 🔹 Former OC Committee Head of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** , **Full Stack Development** and **Project Management**<br>
 🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter,Hugging Face,AI & Firebase<br>
