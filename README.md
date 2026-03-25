@@ -53,10 +53,20 @@
 ---
 
 ## 📊 GitHub Stats
+<h3 align="center">My Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yashira-De-Silva&theme=dark&hide_border=false" />
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yashira-De-Silva&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashira-De-Silva&theme=dark&hide_border=false" /> 
+ 
+</td>
+
+</tr>
+</table>
 
 ---
 
