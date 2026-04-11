@@ -17,7 +17,7 @@
 🔹 `Associate Full-Stack Developer` @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Former Club Captain (President) of FOSS Community NSBM <br>
-🔹 Vice President of NSBM Chess Clubb <br>
+🔹 Vice President of NSBM Chess Club <br>
 🔹 Former Secretary of NSBM Chess Club <br>
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter. <br>
 🔹 Former OC Committee Head of NSBM Chess Club <br>
