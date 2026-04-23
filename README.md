@@ -1,4 +1,4 @@
-<p align="center">
+tss<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashira-De-Silva&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
@@ -22,7 +22,7 @@
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter. <br>
 🔹 Former OC Committee Head of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** , **Full Stack Development** and **Project Management**<br>
-🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter, Laravel , Hugging Face,AI & SQL<br>
+🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter, Laravel , Hugging Face,AI, Rendering & SQL<br>
 🔹 Exploring **Microservices, DevOps, AI & Machine Learning** for intelligent tech solutions  
 
 ---
