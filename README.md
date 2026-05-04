@@ -1,4 +1,4 @@
-tss<p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashira-De-Silva&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
@@ -13,7 +13,7 @@ tss<p align="center">
 ---
 
 ## 👨‍💻 Who Am I?
-🔹 `Final Year Computer Science Undergraduatee` at Plymouth University, UK <br>
+🔹 `Final Year Computer Science Undergraduate` at Plymouth University, UK <br>
 🔹 `Associate Full-Stack Developer` @abilityrange <br>
 🔹 Beta Microsoft Learn Student Ambassador <br>
 🔹 Former Club Captain (President) of FOSS Community NSBM <br>
@@ -59,7 +59,7 @@ tss<p align="center">
 <tr border="none">
 <td width="50%" align="center">
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashira-De-Silva&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashira-De-Silva&theme=light&hide_border=false" /> 
  
 </td>
 
