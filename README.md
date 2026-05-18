@@ -22,7 +22,7 @@
 🔹 Former Computer Science & Data Science Department Coordinator of CSSL GenZ NSBM Chapter. <br>
 🔹 Former OC Committee Head of NSBM Chess Club <br>
 🔹 Passionate about **Mobile App Development** , **Full Stack Development** and **Project Management**<br>
-🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter, Laravel , Hugging Face,AI, Rendering & SQL<br>
+🔹 Currently building a **AI News & Misinformation Analyzer** using Flutter, Laravel, Hugging Face, AI, Rendering & SQL<br>
 🔹 Exploring **Microservices, DevOps, AI & Machine Learning** for intelligent tech solutions  
 
 ---
