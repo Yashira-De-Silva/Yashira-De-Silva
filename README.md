@@ -59,7 +59,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <br></br>
-   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashira-De-Silva&theme=light&hide_border=false" />
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashini&theme=light&hide_border=false" />
  
 </td>
 
