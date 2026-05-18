@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashira-De-Silva&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm <span style="color:#8A2BE2">Yashira De Silva!</span>
 </h1>
@@ -27,6 +28,7 @@
 ---
 
 ## 🚀 Projects & Experience
+🔍 **Project TruthLens** – An AI-powered news verification and fact-checking ecosystem. Features a cross-platform Flutter mobile client communicating with a robust Laravel backend and intelligent microservices to parse media contents, scrape contextual data, and dynamically detect misinformation in real time using advanced LLMs.  
 🧠 **Speech to Text Converter** – Real-time speech transcription  
 🛒 **POS System** – Inventory & billing for supermarkets  
 👨‍💼 **Recruitment Platform** – Smart job recommendations with employer/employee role-based dashboards  
