@@ -48,5 +48,5 @@
 
 ## 🔥 Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashira-De-Silva&theme=dark&cache=v1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashira-De-Silva&theme=light&cache=v1" alt="GitHub Streak" />
 </p>
