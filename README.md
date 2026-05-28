@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Projects & Experience
-🔍 **Project TruthLens** – An AI-powered news verification and fact-checking ecosystem. Features a cross-platform Flutter mobile client communicating with a robust Laravel backend and intelligent microservices to parse media contents, scrape contextual data, and dynamically detect misinformation in real time using advanced LLMs.  
+🔍 **Project TruthLens** – An AI-powered news verification and fact-checking ecosystem. Features a cross-platform Flutter mobile client communicating with a robust Laravel backend and intelligent microservices to parse media content, scrape contextual data, and dynamically detect misinformation in real time using advanced LLMs.  
 🧠 **Speech to Text Converter** – Real-time speech transcription  
 🛒 **POS System** – Inventory & billing for supermarkets  
 👨‍💼 **Recruitment Platform** – Smart job recommendations with employer/employee role-based dashboards  
