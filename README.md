@@ -29,10 +29,15 @@
 
 ## 🚀 Projects & Experience
 🔍 **Project TruthLens** – An AI-powered news verification and fact-checking ecosystem. Features a cross-platform Flutter mobile client communicating with a robust Laravel backend and intelligent microservices to parse media content, scrape contextual data, and dynamically detect misinformation in real time using advanced LLMs.  
+💼 **Hire Ready** – An AI-powered interview preparation and CV builder mobile application designed to streamline career readiness with automated feedback loops.  
+📊 **Debit Flow** – A dedicated web platform for tracking, organizing, and managing debts, featuring comprehensive reporting and seamless Excel data exports.  
+🎬 **Movify** – A full-featured video streaming web platform hosting free movies and TV series, fully integrated with Google AdSense for monetization.  
+🎟️ **My Flix** – A dynamic online movie ticket booking platform handling showtimes, seating selections, and user reservations.  
+🏃‍♂️ **Shadow Dash** – An advanced, high-fidelity 2D mobile endless runner game expanding on classic side-scrolling mechanics with enhanced physics and graphics.  
 🧠 **Speech to Text Converter** – Real-time speech transcription  
 🛒 **POS System** – Inventory & billing for supermarkets  
 👨‍💼 **Recruitment Platform** – Smart job recommendations with employer/employee role-based dashboards  
-🏠 **Flutter Property Listing App** – Built with Provider for state management  
+🏠 **Flutter Property Listing App** – Built with Provider for state management
 
 ---
 
